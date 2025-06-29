@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pendekar3i - Sugiarto Kurniawan</title>
+  <style>
+    body { font-family: Arial, sans-serif; background: #f4f4f4; margin: 0; padding: 0; color: #333; }
+    .container { max-width: 800px; margin: 0 auto; padding: 20px; background: #fff; }
+    h1, h2 { color: #222; }
+    .profile-img { width: 100%; max-width: 400px; margin: 20px auto; display: block; border-radius: 12px; }
+    .cta-btn { display: inline-block; margin: 10px 5px; padding: 10px 15px; background: #007bff; color: #fff; text-decoration: none; border-radius: 5px; }
+    .social-links a { margin: 0 10px; text-decoration: none; color: #007bff; }
+    .section { margin-bottom: 30px; }
+    .qr-img { width: 180px; display: block; margin: 10px 0; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Sugiarto Kurniawan - Pendekar3i</h1>
+    <p><strong>Leader Cerdas, Berakhlaq, dan Visioner di Era AI & Bisnis Syariah.</strong></p>
+    <img src="leader2.jpeg" alt="Foto Profil Sugiarto Kurniawan" class="profile-img">
+
+    <div class="section">
+      <h2>"Tangan kiri boleh hilang, tapi semangat dan otak harus tetap jalan!"</h2>
+      <p>Saya Sugiarto Kurniawan. Setelah kecelakaan kerja yang membuat saya kehilangan tangan kiri, saya tidak menyerah. Saya bangkit dan membangun brand <strong>Pendekar3i</strong> – simbol perjuangan dan filosofi 3 kaki dari sistem Trinary di 3iReborn.</p>
+    </div>
+
+    <div class="section">
+      <h2>Siapa Saya?</h2>
+      <ul>
+        <li>Founder <strong>NganggurPreneur Akademi</strong></li>
+        <li>Trainer AI dan Digital Tools untuk Pemula</li>
+        <li>Praktisi Trinary System di <strong>3iReborn</strong></li>
+        <li>Mentor Komunitas <strong>KSM (Komunitas Sultan Mukmin)</strong></li>
+        <li>Konten Kreator Edukasi via WhatsApp, TikTok, Facebook Pro</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Apa yang Saya Lakukan Sekarang?</h2>
+      <ul>
+        <li>Melatih orang-orang membuat konten AI dengan HP</li>
+        <li>Membimbing bisnis syariah lewat 3iReborn</li>
+        <li>Membangun komunitas digital untuk pejuang ekonomi</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Ayo Terhubung & Belajar!</h2>
+      <a href="https://bit.ly/NabungUntungTerus" class="cta-btn">Website Belajar AI & Bisnis</a>
+      <a href="https://bit.ly/FromPendaftaranOnline" class="cta-btn">Form Pendaftaran</a>
+      <a href="https://s.id/3IReborn" class="cta-btn">Bot WhatsApp Auto</a>
+    </div>
+
+    <div class="section">
+      <h2>Ikuti Saya di Media Sosial</h2>
+      <div class="social-links">
+        <a href="https://www.facebook.com/sugiartokurniawan3i" target="_blank">Facebook</a>
+        <a href="https://www.instagram.com/sugiarto_ngangguraja/" target="_blank">Instagram</a>
+        <a href="https://tiktok.com/@kurniawansugiarto3i" target="_blank">TikTok</a>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
